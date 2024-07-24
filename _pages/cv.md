@@ -21,12 +21,12 @@ Work experience
   * Supervisor: Andrew Sharp
 
 * Summer 2018 - Summer 2019: Research Intern
-  * Boyce Thompson Institute at Cornell University
-  * Duties included: Polishing the A. syriaca (common milkweed) genome build, functional annotations, and gene family expansion analysis. 
+  * Cornell University, Boyce Thomoson Institute Computational Biology Center
+  * Duties included: Polishing the *A. syriaca* (common milkweed) genome build, functional annotations, and gene family expansion analysis. 
   * Supervisor: Susan Strickler
 
 * Summer 2017: Research Intern
-  * New York University
+  * New York University, Department of Biochemistry and Molecular Pharmacology
   * Duties included: Molecular modelling simulations from crystal structures of the bacterophage T4 using ICM-Browser Pro 
   * Supervisor: Timothy Cardozo
   
