@@ -11,35 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, Massachusetts College of Liberal Arts 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2022-current: Bioinformatician
+  * Icahn School of Medicine at Mount Sinai
+  * Duties includes: Developing custom pipelines for large-scale analyses to identify novel associations with tandem repeats and clinically significant phenotypes
+  * Supervisor: Andrew Sharp
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018 - Summer 2019: Research Intern
+  * Boyce Thompson Institute at Cornell University
+  * Duties included: Polishing the A. syriaca (common milkweed) genome build, functional annotations, and gene family expansion analysis. 
+  * Supervisor: Susan Strickler
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Intern
+  * New York University
+  * Duties included: Molecular modelling simulations from crystal structures of the bacterophage T4 using ICM-Browser Pro 
+  * Supervisor: Timothy Cardozo
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficiency in Programming languages:
+  * python
+  * R
+  * Java
+  * C++
+  * Unix Shell (bash)
+* Project Management
+* Communication
+
+Relevant Coursework
+======
+* Biology
+  * Genetics, Zoology, Cell and Molecular Biology, 
+* Chemistry
+  * Organic Chemsitry
+  * Biochemistry
+* Computer Science
+  * Programming in Java
+  * Programming in C++
+  * Object Oriented Design
+  * Database Developement
+  * Data Structures and Algorithsm
+  * Machine Learning
+* Mathematics
+  * Discrete Mathematics
+  * Proof I & II
 
 Publications
 ======
@@ -53,11 +71,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
