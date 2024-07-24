@@ -12,7 +12,7 @@ title                    : "Celine Manigbas"
 title_separator          : "-"
 name                     : &name "Celine Manigbas"
 description              : &description "Bioinformatician"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cmanigbas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
