@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Celine Manigbas"
+title: "A brief introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-A brief introduction 
 ======
 Hi! My name is Celine Manigbas, and I am a Bioinformatician in the Sharp lab at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/research/genomics/about). 
 
