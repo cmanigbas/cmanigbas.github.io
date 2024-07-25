@@ -16,24 +16,25 @@ Education
 Work experience
 ======
 * September 2022-current: Bioinformatician
-  * Icahn School of Medicine at Mount Sinai
-  * Developed custom pipelines for large-scale analyses to identify novel associations with tandem repeats and clinically significant phenotypes, including:
-    * Phenome-wide aociation study (PheWAS) analysis
-    * Genome-Wide association studies (GWAS) analysis
-    * Expression quantitative trait loci (eQTL) analysis
-    * Conditional Analysis
-    * Fine-mapping 
-  * Supervisor: Andrew Sharp
+  * Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomics
+  * Principle Investigator: Andrew Sharp
+  * Developed custom pipelines for large-scale analyses to identify novel associations with >48,000 tandem repeats (TRa) and >30,000 clinically significant phenotypes in ~170k European samples.
+  * Identified 47 TRs that showed causal associations with 73 traits based on fine-mapping and conditional analysis and were strongly enriched for functional repeats that impact local gene expression and DNA methylation using eQTLs and mQTLs. 
 
 * Summer 2018 - Summer 2019: Research Intern
-  * Cornell University, Boyce Thomoson Institute Computational Biology Center
-  * Duties included: Polishing the *A. syriaca* (common milkweed) genome build, functional annotations, and gene family expansion analysis. 
-  * Supervisor: Susan Strickler
+  * Cornell University, Boyce Thomoson Institute (BTI) Computational Biology Center
+  * selected for [Plant Genome Research Program (NSF & USDA Funded REU)](https://btiscience.org/educational-programs/internships/interns/manigbas/)
+  * Curated *A. syriaca* (common milkweed) genome assembly, including quality control, error correction, data cleaning, benchmarking, and functional annotation.
+  * Performed gene family expansion analysis to identify likely ancestral genes and pathways crucial for the biosynthesis of cardiac glycosides and how they have evolved over time. 
+    * [GenomicConsensus Arrow](https://github.com/PacificBiosciences/gcpp) (now deprecated), [Portcullis](https://github.com/EI-CoreBioinformatics/portcullis), [Mikado](https://mikado.readthedocs.io/en/stable/), [Scipio](http://www.webscipio.org), [OrthoFinder](https://github.com/davidemms/OrthoFinder), [InterProScan](https://github.com/ebi-pf-team/interproscan), [KinFin](https://github.com/DRL/kinfin)
+  * Mentor: Susan Strickler
+  * Mentored high school summer student. 
 
 * Summer 2017: Research Intern
   * New York University, Department of Biochemistry and Molecular Pharmacology
-  * Duties included: Molecular modelling simulations from crystal structures of the bacterophage T4 using ICM-Browser Pro 
-  * Supervisor: Timothy Cardozo
+  * Mentor: Timothy Cardozo
+  * Ran simulations of molecular modelling simulations from crystal structures of the bacterophage T4 using ICM-Browser Pro.
+  * Utilizing Monte Carlo sampling, modelled a previously unknown loop structure by which T4 highjacks the RNAP for *E. coli*    
   
 Skills
 ======
@@ -43,8 +44,16 @@ Skills
   * Java
   * C++
   * Unix Shell (bash)
+* Tools/analyses 
+  * [REGENIE]()
+  * [METAL]()
+  * linear and logisitc regression
+  * Genome-Wide association studies (GWAS) analysis
+  * Expression quantitative trait loci (eQTL) analysis
+  * Conditional Analysis
+  * Fine-mapping [CAVIAR]()
 * Project Management
-* Communication
+* Team-oriented communications 
 
 Relevant Coursework
 ======
@@ -81,4 +90,5 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Assisted mentorship for intern in Icahn School of Medicine at Mount Sinai's Summer Undergraduate Research Program for Underserved Scholars (Summer 2023)  
+* Assisted mentorship for intern in BTI’s High School Research Program (Summer 2018) 
