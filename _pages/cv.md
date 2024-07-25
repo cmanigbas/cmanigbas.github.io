@@ -19,7 +19,7 @@ Work experience
 * September 2022-current: Bioinformatician
   * Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomics
   * Principle Investigator: Andrew Sharp
-  * Developed custom pipelines for large-scale analyses to identify novel associations with >48,000 tandem repeats (TRa) and >30,000 clinically significant phenotypes in ~170k European samples.
+  * Developed custom pipelines for large-scale analyses to identify novel associations with >48,000 tandem repeats (TRs) and >30,000 clinically significant phenotypes in ~170k European samples from the UKBiobank.
   * Identified 47 TRs that showed causal associations with 73 traits based on fine-mapping and conditional analysis and were strongly enriched for functional repeats that impact local gene expression and DNA methylation using eQTLs and mQTLs. 
 
 * Summer 2018 - Summer 2019: Research Intern
