@@ -34,7 +34,7 @@ Work experience
 * Summer 2017: Research Intern
   * New York University, Department of Biochemistry and Molecular Pharmacology
   * Mentor: Timothy Cardozo
-  * Ran simulations of molecular modelling simulations from crystal structures of the bacterophage T4 using ICM-Browser Pro.
+  * Ran molecular modelling simulations using crystal structures of the bacterophage T4 in ICM-Browser Pro.
   * Utilizing Monte Carlo sampling, modelled a previously unknown loop structure by which T4 highjacks the RNAP for *E. coli*    
   
 Skills
