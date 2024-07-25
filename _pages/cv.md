@@ -29,7 +29,6 @@ Work experience
   * Performed gene family expansion analysis to identify likely ancestral genes and pathways crucial for the biosynthesis of cardiac glycosides and how they have evolved over time. 
     * [GenomicConsensus Arrow](https://github.com/PacificBiosciences/gcpp) (now deprecated), [Portcullis](https://github.com/EI-CoreBioinformatics/portcullis), [Mikado](https://mikado.readthedocs.io/en/stable/), [Scipio](http://www.webscipio.org), [OrthoFinder](https://github.com/davidemms/OrthoFinder), [InterProScan](https://github.com/ebi-pf-team/interproscan), [KinFin](https://github.com/DRL/kinfin)
   * Mentor: Susan Strickler
-  * Mentored high school summer student. 
 
 * Summer 2017: Research Intern
   * New York University, Department of Biochemistry and Molecular Pharmacology
