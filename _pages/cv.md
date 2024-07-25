@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Science, Computer Science: Bioinformatics; summa cum laude
+* Massachusetts College of Liberal Arts
+  * Bachelor of Science, Computer Science: Bioinformatics; summa cum laude
 
 Work experience
 ======
