@@ -17,7 +17,12 @@ Work experience
 ======
 * September 2022-current: Bioinformatician
   * Icahn School of Medicine at Mount Sinai
-  * Duties includes: Developing custom pipelines for large-scale analyses to identify novel associations with tandem repeats and clinically significant phenotypes
+  * Developed custom pipelines for large-scale analyses to identify novel associations with tandem repeats and clinically significant phenotypes, including:
+    * Phenome-wide aociation study (PheWAS) analysis
+    * Genome-Wide association studies (GWAS) analysis
+    * Expression quantitative trait loci (eQTL) analysis
+    * Conditional Analysis
+    * Fine-mapping 
   * Supervisor: Andrew Sharp
 
 * Summer 2018 - Summer 2019: Research Intern
@@ -44,7 +49,9 @@ Skills
 Relevant Coursework
 ======
 * Biology
-  * Genetics, Zoology, Cell and Molecular Biology, 
+  * Genetics
+  * Zoology
+  * Cell and Molecular Biology, 
 * Chemistry
   * Organic Chemsitry
   * Biochemistry
