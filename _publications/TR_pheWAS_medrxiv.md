@@ -1,7 +1,7 @@
 ---
 title: "A phenome-wide association study of tandem repeat variation in 168,554 individuals from the UK Biobank"
 collection: publications
-permalink: /publications/TR_pheWAS_medrxiv
+permalink: /publications/TR_pheWAS_medrxiv.md
 excerpt: 'Our analysis provides one of the first comprehensive evaluations of the impact of TR variation on human traits, highlighting TRs as a key candidate for the missing heritability problem and a crucial variant to consider in future genetic studies. '
 date: 2024-01-23
 venue: 'Preprint MedRxiv'
