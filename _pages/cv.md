@@ -75,6 +75,7 @@ Relevant Coursework
 * Mathematics
   * Discrete Mathematics
   * Proof I & II
+  * Biometry
 
 Publications
 ======
