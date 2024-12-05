@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/TR_pheWAS_natCom
 excerpt: 'Our analysis provides one of the first comprehensive evaluations of the impact of TR variation on human traits, highlighting TRs as a key candidate for the missing heritability problem and a crucial variant to consider in future genetic studies. '
 date: 2024-12-03
-venue: 'Nature Communcations'
+venue: 'Nature Communications'
 paperurl: 'http://cmanigbas.github.io/files/Manigbas_et_al-2024-Nature_Communications.pdf'
 citation: 'Manigbas, Celine et al. (2024). &quot;A phenome-wide association study of tandem repeat variation in 168,554 individuals from the UK Biobank.&quot; <i>Nature Communications</i>. PMID: 39627187. 1(1).'
 ---
