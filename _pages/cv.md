@@ -15,6 +15,9 @@ Education
 ======
 * Massachusetts College of Liberal Arts
   * Bachelor of Science, Computer Science: Bioinformatics; summa cum laude
+  * [Hear more about my experience!](https://www.youtube.com/watch?v=RsAMW2E8ggE)
+* Bard High School Early College Queens
+  * Associate's Degree, Liberal Arts
 
 Work experience
 ======
@@ -22,19 +25,21 @@ Work experience
   * Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomics
   * Principle Investigator: Andrew Sharp
   * Developed custom pipelines for large-scale analyses to identify novel associations with >48,000 tandem repeats (TRs) and >30,000 clinically significant phenotypes in ~170k European samples from the UKBiobank.
-  * Identified 47 TRs that showed causal associations with 73 traits based on fine-mapping and conditional analysis and were strongly enriched for functional repeats that impact local gene expression and DNA methylation using eQTLs and mQTLs. 
+  * Identified 47 TRs that showed causal associations with 73 traits based on fine-mapping and conditional analysis and were strongly enriched for functional repeats that impact local gene expression and DNA methylation using eQTLs and mQTLs.
+  * Collaborate with [Dr. Rebecca Birnbaum](https://profiles.mountsinai.org/rebecca-birnbaum) to investigate the impact of TRs in Schizophrenia
 
 * Summer 2018 - Summer 2019: Research Intern
   * Cornell University, Boyce Thomoson Institute (BTI) Computational Biology Center
   * selected for [Plant Genome Research Program (NSF & USDA Funded REU)](https://btiscience.org/educational-programs/internships/interns/manigbas/)
   * Curated *A. syriaca* (common milkweed) genome assembly, including quality control, error correction, data cleaning, benchmarking, and functional annotation.
-  * Performed gene family expansion analysis to identify likely ancestral genes and pathways crucial for the biosynthesis of cardiac glycosides and how they have evolved over time. 
+  * Performed gene family expansion analysis to identify likely ancestral genes and pathways crucial for the biosynthesis of cardiac glycosides and how they have evolved over time.
     * [GenomicConsensus Arrow](https://github.com/PacificBiosciences/gcpp) (now deprecated), [Portcullis](https://github.com/EI-CoreBioinformatics/portcullis), [Mikado](https://mikado.readthedocs.io/en/stable/), [Scipio](http://www.webscipio.org), [OrthoFinder](https://github.com/davidemms/OrthoFinder), [InterProScan](https://github.com/ebi-pf-team/interproscan), [KinFin](https://github.com/DRL/kinfin)
-  * Mentor: Susan Strickler
+  * Mentor: [Dr. Susan Strickler](https://www.chicagobotanic.org/research/staff/staff_0)
+  * [Read more about my experience!](https://dev.mcla.edu/mcla-in-the-community/mcla-news/our-stories-archive/2018-dec/comp-sci-major-serves-research-internship-at-cornell.php)
 
 * Summer 2017: Research Intern
   * New York University, Department of Biochemistry and Molecular Pharmacology
-  * Mentor: Timothy Cardozo
+  * Mentor: [Dr. Timothy Cardozo](https://med.nyu.edu/faculty/timothy-j-cardozo)
   * Ran molecular modelling simulations using crystal structures of the bacterophage T4 in ICM-Browser Pro.
   * Utilizing Monte Carlo sampling, modelled a previously unknown loop structure by which T4 highjacks the RNAP for *E. coli*    
   
@@ -47,13 +52,14 @@ Skills
   * C++
   * Unix Shell (bash)
 * Tools/analyses 
-  * [REGENIE]()
-  * [METAL]()
+  * [REGENIE](https://rgcgithub.github.io/regenie/)
+  * [METAL](https://genome.sph.umich.edu/wiki/METAL_Documentation)
+  * [PLINK](https://www.cog-genomics.org/plink/2.0/)
   * linear and logisitc regression
   * Genome-Wide association studies (GWAS) analysis
   * Expression quantitative trait loci (eQTL) analysis
   * Conditional Analysis
-  * Fine-mapping [CAVIAR]()
+  * Fine-mapping [CAVIAR](https://pubmed.ncbi.nlm.nih.gov/34050420/)
 * Project Management
 * Team-oriented communications 
 
@@ -77,6 +83,21 @@ Relevant Coursework
   * Discrete Mathematics
   * Proof I & II
   * Biometry
+ 
+Achievements and Leadership
+* **Best Poster** | *European Society of Human Genetics Conference 2024*
+  *Abstract among the best scored papers accepted for poster presentation • Presented overview of work at the Best Posters Session
+* **All-College Honors** | *MCLA 2019*
+  * Successfully completed a rigorous, interdisciplinary academic program, which includes at least 18 credit hours of honors courses, including upper-level coursework
+* **Ada Lovelace Computer Science Outstanding Student Award** | *MCLA 2019*
+  * Awarded to top student in the Computer Science department
+* **Alpha Chi National College Honor Society** | *MCLA 2017-2019*
+* **Student Government Executive Vice President** | *MCLA 2017-2019*
+  * Collaborated with faculty on committees (All-College, Academic Policies, Curriculum), presenting student concerns and proposing policies to enhance the student experience.
+  * Collaborated with other board members to reach consensus on campus-wide decisions
+* **Outstanding Senior Leader Award** | *MCLA 2019*
+* Assisted mentorship for intern in Icahn School of Medicine at Mount Sinai's Summer Undergraduate Research Program for Underserved Scholars (Summer 2023)  
+* Assisted mentorship for intern in BTI’s High School Research Program (Summer 2018) 
 
 Publications
 ======
@@ -91,7 +112,4 @@ Talks
   {% endfor %}</ul>
   
   
-Service and leadership
-======
-* Assisted mentorship for intern in Icahn School of Medicine at Mount Sinai's Summer Undergraduate Research Program for Underserved Scholars (Summer 2023)  
-* Assisted mentorship for intern in BTI’s High School Research Program (Summer 2018) 
+
