@@ -15,6 +15,8 @@ As a Bioinformatician in [Dr. Andrew Sharp's lab](https://profiles.mountsinai.or
 
 In our most recent [study](https://www.nature.com/articles/s41467-024-54678-0), we revealed that a subset of TRs are indeed causal, likely impacting local gene expression and DNA methylation as the mechanism of action. Of note, I discovered a novel association between a coding repeat in *HRCT1* and high blood pressure, further confirmed by associating the repeat’s allele length to aorta tissue expression. 
 
+![alt text](files/manhattanPlot_170kPheWAS.png)
+
 
 
 
