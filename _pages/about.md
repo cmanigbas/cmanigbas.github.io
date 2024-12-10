@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A brief introduction"
+title: "Celine Manigbas"
 author_profile: true
 redirect_from: 
   - /about/
