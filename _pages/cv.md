@@ -21,14 +21,14 @@ Education
 
 Work experience
 ======
-* September 2022-current: **Bioinformatician**
+* **Bioinformatician** *Summer 2018 - Summer 2019*
   * Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomics
   * Principle Investigator: Andrew Sharp
   * Developed custom pipelines for large-scale analyses to identify novel associations with >48,000 tandem repeats (TRs) and >30,000 clinically significant phenotypes in ~170k European samples from the UKBiobank.
   * Identified 47 TRs that showed causal associations with 73 traits based on fine-mapping and conditional analysis and were strongly enriched for functional repeats that impact local gene expression and DNA methylation using eQTLs and mQTLs.
   * Collaborate with [Dr. Rebecca Birnbaum](https://profiles.mountsinai.org/rebecca-birnbaum) to investigate the impact of TRs in Schizophrenia
 
-* Summer 2018 - Summer 2019: **Research Intern**
+* **Research Intern** *Summer 2018 - Summer 2019*
   * Cornell University, Boyce Thomoson Institute (BTI) Computational Biology Center
   * selected for [Plant Genome Research Program (NSF & USDA Funded REU)](https://btiscience.org/educational-programs/internships/interns/manigbas/)
   * Curated *A. syriaca* (common milkweed) genome assembly, including quality control, error correction, data cleaning, benchmarking, and functional annotation.
@@ -37,7 +37,7 @@ Work experience
   * Mentor: [Dr. Susan Strickler](https://www.chicagobotanic.org/research/staff/staff_0)
   * [Read more about my experience!](https://dev.mcla.edu/mcla-in-the-community/mcla-news/our-stories-archive/2018-dec/comp-sci-major-serves-research-internship-at-cornell.php)
 
-* Summer 2017: **Research Intern**
+* **Research Intern** *Summer 2017* 
   * New York University, Department of Biochemistry and Molecular Pharmacology
   * Mentor: [Dr. Timothy Cardozo](https://med.nyu.edu/faculty/timothy-j-cardozo)
   * Ran molecular modelling simulations using crystal structures of the bacterophage T4 in ICM-Browser Pro.
@@ -86,19 +86,17 @@ Relevant Coursework
  
 Achievements and Leadership
 ======
-* **Best Poster** | *European Society of Human Genetics Conference 2024*
-  *Abstract among the best scored papers accepted for poster presentation • Presented overview of work at the Best Posters Session
-* **All-College Honors** | *MCLA 2019*
+* **All-College Honors** *MCLA 2019*
   * Successfully completed a rigorous, interdisciplinary academic program, which includes at least 18 credit hours of honors courses, including upper-level coursework
-* **Ada Lovelace Computer Science Outstanding Student Award** | *MCLA 2019*
+* **Ada Lovelace Computer Science Outstanding Student Award** *MCLA 2019*
   * Awarded to top student in the Computer Science department
-* **Alpha Chi National College Honor Society** | *MCLA 2017-2019*
-* **Student Government Executive Vice President** | *MCLA 2017-2019*
+* **Alpha Chi National College Honor Society** *MCLA 2017-2019*
+* **Student Government Executive Vice President** *MCLA 2017-2019*
   * Collaborated with faculty on committees (All-College, Academic Policies, Curriculum), presenting student concerns and proposing policies to enhance the student experience.
   * Collaborated with other board members to reach consensus on campus-wide decisions
-* **Outstanding Senior Leader Award** | *MCLA 2019*
-* Assisted mentorship for intern in Icahn School of Medicine at Mount Sinai's Summer Undergraduate Research Program for Underserved Scholars (Summer 2023)  
-* Assisted mentorship for intern in BTI’s High School Research Program (Summer 2018) 
+* **Outstanding Senior Leader Award** *MCLA 2019*
+* Assisted mentorship for intern in Icahn School of Medicine at Mount Sinai's Summer Undergraduate Research Program [SURP4US](https://icahn.mssm.edu/education/non-degree/surp4us#:~:text=Our%20Summer%20Undergraduate%20Research%20Program,to%20hands%2Don%20research%20opportunities.) for Underserved Scholars *Summer 2023*  
+* Assisted mentorship for intern in [BTI’s High School Research Program](https://btiscience.org/education-outreach/high-school-research-internships/) *Summer 2018*
 
 Publications
 ======
