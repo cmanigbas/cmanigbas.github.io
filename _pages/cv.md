@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**[Download CV](http://cmanigbas.github.io/files/ManigbasCeline_CV_Nov2024.pdf)**
+
 Education
 ======
 * Massachusetts College of Liberal Arts
