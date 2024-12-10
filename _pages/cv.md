@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,14 +21,14 @@ Education
 
 Work experience
 ======
-* September 2022-current: Bioinformatician
+* September 2022-current: **Bioinformatician**
   * Icahn School of Medicine at Mount Sinai, Department of Genetics and Genomics
   * Principle Investigator: Andrew Sharp
   * Developed custom pipelines for large-scale analyses to identify novel associations with >48,000 tandem repeats (TRs) and >30,000 clinically significant phenotypes in ~170k European samples from the UKBiobank.
   * Identified 47 TRs that showed causal associations with 73 traits based on fine-mapping and conditional analysis and were strongly enriched for functional repeats that impact local gene expression and DNA methylation using eQTLs and mQTLs.
   * Collaborate with [Dr. Rebecca Birnbaum](https://profiles.mountsinai.org/rebecca-birnbaum) to investigate the impact of TRs in Schizophrenia
 
-* Summer 2018 - Summer 2019: Research Intern
+* Summer 2018 - Summer 2019: **Research Intern**
   * Cornell University, Boyce Thomoson Institute (BTI) Computational Biology Center
   * selected for [Plant Genome Research Program (NSF & USDA Funded REU)](https://btiscience.org/educational-programs/internships/interns/manigbas/)
   * Curated *A. syriaca* (common milkweed) genome assembly, including quality control, error correction, data cleaning, benchmarking, and functional annotation.
@@ -37,12 +37,12 @@ Work experience
   * Mentor: [Dr. Susan Strickler](https://www.chicagobotanic.org/research/staff/staff_0)
   * [Read more about my experience!](https://dev.mcla.edu/mcla-in-the-community/mcla-news/our-stories-archive/2018-dec/comp-sci-major-serves-research-internship-at-cornell.php)
 
-* Summer 2017: Research Intern
+* Summer 2017: **Research Intern**
   * New York University, Department of Biochemistry and Molecular Pharmacology
   * Mentor: [Dr. Timothy Cardozo](https://med.nyu.edu/faculty/timothy-j-cardozo)
   * Ran molecular modelling simulations using crystal structures of the bacterophage T4 in ICM-Browser Pro.
   * Utilizing Monte Carlo sampling, modelled a previously unknown loop structure by which T4 highjacks the RNAP for *E. coli*    
-  
+
 Skills
 ======
 * Proficiency in Programming languages:
@@ -85,6 +85,7 @@ Relevant Coursework
   * Biometry
  
 Achievements and Leadership
+======
 * **Best Poster** | *European Society of Human Genetics Conference 2024*
   *Abstract among the best scored papers accepted for poster presentation • Presented overview of work at the Best Posters Session
 * **All-College Honors** | *MCLA 2019*
